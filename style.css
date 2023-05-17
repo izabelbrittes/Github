@@ -1,0 +1,30 @@
+body  [
+    background-color: green;
+    color: white;
+    font-family: comfortaa;
+    width: 100%;
+    margin: auto;
+
+
+    ]
+
+
+
+    .cabecalho [
+
+
+    disply: flex;
+    flex-wrap: wrap;
+    justify-content: spacebetween;
+
+
+
+    ]
+
+    .cabecalhodiv<  [
+
+    width: 100%;
+
+
+    ]
+
